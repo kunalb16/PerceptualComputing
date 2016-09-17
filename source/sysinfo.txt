@@ -1,0 +1,100 @@
+System:
+  OS: Windows 8.1  (6.3.9600) 64bit
+  CPU: Intel(R) Core(TM) i3 CPU M 350 @ 2.27GHz, count: 4
+  Physical RAM: 3951 MB
+  Addressable RAM: 2048 MB
+
+D3D9:
+  Renderer: Microsoft Basic Render Driver
+  VendorID: 1414
+  Driver: d3d10warp.dll 6.3.9600.16384
+  VRAM: 256 (via DXGI)
+
+OpenGL:
+  Version: 1.1.0
+  Vendor: Microsoft Corporation
+  Renderer: GDI Generic
+  VRAM: 256 (via DXGI)
+  Extensions: GL_WIN_swap_hint GL_EXT_bgra GL_EXT_paletted_texture
+
+User locale: en-US
+System locale: en-US
+
+Running processes:
+notification_tool.exe (3580)
+    path: C:\Program Files (x86)\Common Files\Intel\RSSDK\v3\bin\win32\notification_tool.exe
+    company:  Intel Corporation
+    product:  Intel(R) RealSense(TM) SDK
+    filedesc: Intel(R) RealSense(TM) SDK Privacy Notification
+    filever:  2.0.1.22222
+    prodver:  2.0.1.22222
+RealSenseWeb.exe (3892)
+    path: C:\Program Files (x86)\Common Files\Intel\RSSDK\v3\bin\win32\RealSenseWeb\RealSenseWeb.exe
+    company:  Intel Corporation
+    product:  Intel(R) RealSense(TM) SDK Web Server
+    filedesc: Intel(R) RealSense(TM) SDK Web Server
+    filever:  1.0.0.0
+    prodver:  1.0.0.0
+RealSenseWeb.exe (4072)
+    path: C:\Program Files (x86)\Common Files\Intel\RSSDK\v3\bin\win32\RealSenseWeb\RealSenseWeb.exe
+    company:  Intel Corporation
+    product:  Intel(R) RealSense(TM) SDK Web Server
+    filedesc: Intel(R) RealSense(TM) SDK Web Server
+    filever:  1.0.0.0
+    prodver:  1.0.0.0
+chrome.exe (656)
+    path: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  40.0.2214.111
+    prodver:  40.0.2214.111
+chrome.exe (3980)
+    path: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  40.0.2214.111
+    prodver:  40.0.2214.111
+chrome.exe (3800)
+    path: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  40.0.2214.111
+    prodver:  40.0.2214.111
+chrome.exe (2060)
+    path: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  40.0.2214.111
+    prodver:  40.0.2214.111
+vlc.exe (248)
+    path: C:\Program Files (x86)\VideoLAN\VLC\vlc.exe
+    company:  VideoLAN
+    product:  VLC media player
+    filedesc: VLC media player 2.1.5
+    filever:  2.1.5.0
+    prodver:  2.1.5.0
+chrome.exe (2828)
+    path: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  40.0.2214.111
+    prodver:  40.0.2214.111
+chrome.exe (2936)
+    path: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  40.0.2214.111
+    prodver:  40.0.2214.111
+UnityBugReporter.exe (4924)
+    path: C:\Program Files (x86)\Unity\Editor\UnityBugReporter.exe
+    company:  Unity Technologies ApS
+    product:  Unity Bug Reporter
+    filedesc: Unity Bug Reporter
+    filever:  4.6.1.51269
+    prodver:  4.6.1.51269

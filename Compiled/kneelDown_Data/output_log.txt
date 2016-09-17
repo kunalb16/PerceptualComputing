@@ -1,0 +1,135 @@
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     896 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\kubansal\Desktop\project-pk\kneelDown_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\kubansal\Desktop\project-pk\kneelDown_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\kubansal\Desktop\project-pk\kneelDown_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\kubansal\Desktop\project-pk\kneelDown_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\kubansal\Desktop\project-pk\kneelDown_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\kubansal\Desktop\project-pk\kneelDown_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\kubansal\Desktop\project-pk\kneelDown_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\kubansal\Desktop\project-pk\kneelDown_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\kubansal\Desktop\project-pk\kneelDown_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\kubansal\Desktop\project-pk\kneelDown_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\kubansal\Desktop\project-pk\kneelDown_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Users\kubansal\Desktop\project-pk\kneelDown_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+Platform assembly: C:\Users\kubansal\Desktop\project-pk\kneelDown_Data\Managed\libpxcclr.unity.dll (this message is harmless)
+Loading C:\Users\kubansal\Desktop\project-pk\kneelDown_Data\Managed\libpxcclr.unity.dll into Unity Child Domain
+- Completed reload, in  0.211 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\kubansal\Desktop\project-pk\kneelDown_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\kubansal\Desktop\project-pk\kneelDown_Data\Managed\System.dll (this message is harmless)
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+DllNotFoundException: C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+  at (wrapper managed-to-native) PXCMSenseManager:PXCMSenseManager_CreateInstance ()
+  at PXCMSenseManager.CreateInstance () [0x00000] in <filename unknown>:0 
+  at RSUnityToolkit.SenseToolkitManager.OnEnable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/.\libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll
+Fallback handler could not load library C:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Mono/libC:/Users/kubansal/Desktop/project-pk/kneelDown_Data/Plugins/libpxccpp2c.dll

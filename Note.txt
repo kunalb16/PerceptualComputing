@@ -1,0 +1,17 @@
+The compiled version of Source code was not able to detect Real Sense SDK on my computer.
+Hope It works there.
+
+Otherwise, It works without any error on unity.
+I have attached the source code zip.
+Steps for using the code.
+
+1.Extract the Zip
+2.Go To New Unity Project\Assets\
+3.Open default.unity to open project and wait for unity to load
+4.Use playbutton at middle on top or CTRL+P to start the game
+5.Voila!!! Challenge and Beat your collegues at this supercool game.
+
+
+***Full version would have emotions, Face and smoother tracking****
+
+Thanks

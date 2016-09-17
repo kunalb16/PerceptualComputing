@@ -1,0 +1,33 @@
+Base path: C:/Program Files (x86)/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-1-11172
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=914 outsize=1956 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4298 outsize=2387 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4298 outsize=1055 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2302 outsize=2688 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2302 outsize=1347 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1965 outsize=1477 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1965 outsize=632 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4043 outsize=2663 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4043 outsize=990 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1746 outsize=1404 kw=SHADOWS_DEPTH ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1746 outsize=437 kw=SHADOWS_DEPTH ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2302 outsize=1632 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2302 outsize=933 kw=DIRECTIONAL ok=1
+Unhandled exception: Readfile from pipe failed. GLE=The pipe has been ended.
+
+
+Quitting shader compiler process
